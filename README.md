@@ -5,3 +5,5 @@
 - pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ## Run Streamlit App
 streamlit run dashboard.py
+## Tautan Streamlit Cloud
+https://4uasxwa99mhm4greazemgm.streamlit.app/
